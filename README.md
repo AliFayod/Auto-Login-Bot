@@ -1,4 +1,8 @@
 # Auto Login Gmail BOT
+Please specify the path of chromedriver.exe in the instruction: 
+```
+browser = webdriver.Chrome(executable_path="chromedriver.exe")
+```
 
 ## How it work
 
