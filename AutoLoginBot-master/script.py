@@ -29,7 +29,7 @@ with open('Path For User.TXT') as openfileobject:
             # enter your login username
             username = user
             # enter your login password
-            password = "Samo1995!"
+            password = "PassWord"
 
 
             ###########################################################
